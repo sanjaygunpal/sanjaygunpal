@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjaygunpal
-- 👀 I’m interested in java 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java project
+- 👀 I’m interested in DSA & Blockchain
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on Blockchain project
 - 📫 How to reach me 2020ucp1134@mnit.ac.in
 
 <!---
